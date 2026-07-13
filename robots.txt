@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://charliemorrison.dev/keepsake-journals/sitemap.xml
